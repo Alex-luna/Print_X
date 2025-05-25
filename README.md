@@ -42,3 +42,15 @@ Este aplicativo Python para macOS realiza capturas de tela automáticas em inter
 
 ## Licença
 MIT
+
+
+
+
+
+## Road Map
+
+- [ ] Adicionar um delay de 5 segundos para começar os prints; 
+- [ ] Crirar uma CLI;
+- [ ] Limitar o número máximo de 400 Prints (poder desabilitar);
+- [ ] Trava de segurança, mesma imagem 5 vezes, desliga app;
+- [ ] Criar uma interface visual;
