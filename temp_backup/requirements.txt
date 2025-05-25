@@ -1,0 +1,4 @@
+pyobjc
+Pillow
+imagehash
+tk 
